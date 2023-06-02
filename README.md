@@ -4,5 +4,8 @@
 -  Aprendendo Python, HTML, CSS, Javascript, C. 
 -  Pedagoga nas horas vagas.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunalimo&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunalimo&hide_progress=true)](https://github.com/brunalimo/github-readme-stats)
+   ##     
+  <div> 
+  <a href="https://www.linkedin.com/in/bruna-limonti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
