@@ -1,7 +1,7 @@
 ### Olá mundo 👩🏻‍💻
 
 -  Estudante de eng. de software.
--  Pedagoga e historiadora.
+-  Pedagoga, historiadora e prof. de Inglês.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
