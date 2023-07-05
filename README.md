@@ -1,4 +1,4 @@
-### Olá mundo 👩🏻‍💻
+###  👩🏻‍💻
 
 -  Estudante de eng. de software.
 -  Pedagoga, historiadora e prof. de Inglês.
