@@ -1,6 +1,8 @@
 ###  👩🏻‍💻
 
--  Estudante de eng. de software.
+-  Desenvolvedora [Backend | Frontend]. 
+-  Eu estudo [Engenharia de Software| Desenvolvimento de Software com Foco em Back-End | Bootcamp Santander – Mobile Multiplataforma
+(Flutter)] @ [ Ampli | Cubos Academy| Dio].
 -  Trasição da área da educação para Tecnologia.
 
 <div style="display: inline_block"><br>
