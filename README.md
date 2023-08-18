@@ -1,9 +1,9 @@
 ###  👩🏻‍💻
 
 -  Desenvolvedora [Backend | Frontend]. 
--  Atualmente estudo: [Engenharia de Software| Desenvolvimento de Software com Foco em Back-End | Bootcamp Santander – Mobile Multiplataforma
-(Flutter)] na [Ampli | Cubos Academy| Dio].
--  Trasição da área da educação para Tecnologia.
+-  Atualmente curso [Engenharia de Software|Ampli e Desenvolvimento de Software com Foco em Back-End na Cubos Academy.
+- Participo também do Bootcamp Santander – Mobile Multiplataforma (Flutter)] em parceria com a Dio.
+-  Em trasição da área da educação para Tecnologia.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
