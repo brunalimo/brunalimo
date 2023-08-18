@@ -1,7 +1,7 @@
 ###  👩🏻‍💻
 
 -  Desenvolvedora [Backend | Frontend]. 
--  Atualmente curso [Engenharia de Software|Ampli e Desenvolvimento de Software com Foco em Back-End na Cubos Academy.
+-  Atualmente curso [Engenharia de Softwarena Anhanguera|Ampli e Desenvolvimento de Software com Foco em Back-End na Cubos Academy.
 - Participo também do Bootcamp Santander – Mobile Multiplataforma (Flutter)] em parceria com a Dio.
 -  Em trasição da área da educação para Tecnologia.
 
