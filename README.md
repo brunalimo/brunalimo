@@ -2,7 +2,7 @@
 
 -  Cursando Engenharia de Software na Anhanguera|Ampli e Desenvolvimento de Software Backend na Cubos Academy.
 -  Participo também do Bootcamp Santander – Mobile Multiplataforma (Flutter) em parceria com a Dio.
--  Transitando da Educação para Tecnologia.
+-  Em transição de carreira da Educação para Tecnologia.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
