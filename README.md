@@ -1,7 +1,6 @@
 ###  👩🏻‍💻
 
 -  Cursando Engenharia de Software na Anhanguera|Ampli e Desenvolvimento de Software Backend na Cubos Academy.
--  Participo também do Bootcamp Santander – Mobile Multiplataforma (Flutter) em parceria com a Dio.
 -  Em transição de carreira da Educação para Tecnologia.
 
 <div style="display: inline_block"><br>
