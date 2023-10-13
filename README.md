@@ -1,16 +1,16 @@
-###  👩🏻‍💻
+# :space_invader: Olá!
 
 -  Meu nome é Bruna, sou desenvolvedora Backend. Estou no primeiro ano de Engenharia de Software e em transição de carreira. Fui professora de História/Inglês e atualmente participo de uma turma de Desenvolvimento de Software Backend na [@cubosacademy](https://cubos.academy/). Também busco desenvolver estudos em frontend e Flutter.
--  Nerd e crossfiteira.
+-  Nerd, metaleira e crossfiteira.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruna-FLUTER" height="30" width="40" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png">
-</div>
+![giphy](https://github.com/brunalimo/brunalimo/assets/111705508/d917de33-adeb-4f69-ac3c-faefc0bec3c1)
+
+##
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,nodejs)](https://skillicons.dev)
 
    ##     
   <div> 
   <a href="https://www.linkedin.com/in/bruna-limonti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?brunalimo=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
