@@ -12,5 +12,3 @@
   <div> 
   <a href="https://www.linkedin.com/in/bruna-limonti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?brunalimo=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
