@@ -1,7 +1,7 @@
 ###  👩🏻‍💻
 
--  Cursando Engenharia de Software na Anhanguera|Ampli e Desenvolvimento de Software Backend na Cubos Academy.
--  Em transição de carreira da Educação para Tecnologia.
+-  Meu nome é Bruna, sou desenvolvedora Backend. Curso Engenharia de Software e estou em transição de carreira. Fui professora de História/Inglês e atualmente participo de uma turma de Desenvolvimento de Software Backend na [@cubosacademy](https://cubos.academy/). 
+-  Nerd e crossfiteira.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
