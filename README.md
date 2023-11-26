@@ -1,5 +1,5 @@
 # Olá! 🌎 
--  Meu nome é Bruna, sou desenvolvedora Backend. Estou no primeiro ano de Engenharia de Software e em transição de carreira. Fui professora de História/Inglês, mas apaixonada por tecnologia desde criança hoje me sinto realizada.
+-  Meu nome é Bruna, sou desenvolvedora Backend. Estou no primeiro ano de Engenharia de Software e em transição de carreira. Fui professora de História/Inglês, mas apaixonada por tecnologia desde criança.
 -   Atualmente estou me dedicando na formação de Desenvolvimento de Software Backend na [@cubosacademy](https://cubos.academy/) e atuo num estágio na Sotreq - Uberlândia -MG, no setor de análise e tratamento de dados.
 -  Nerd, metaleira e crossfiteira.
 
