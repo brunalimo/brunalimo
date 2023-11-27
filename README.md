@@ -1,9 +1,14 @@
-# Olá! 🌎 
--  Meu nome é Bruna, sou desenvolvedora Backend. Estou no primeiro ano de Engenharia de Software e em transição de carreira. Fui professora de História/Inglês, mas apaixonada por tecnologia desde criança.
--   Atualmente estou me dedicando na formação de Desenvolvimento de Software Backend na [@cubosacademy](https://cubos.academy/) e atuo num estágio na Sotreq - Uberlândia -MG, no setor de análise e tratamento de dados.
--  Nerd, metaleira e crossfiteira.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-![giphy](https://github.com/brunalimo/brunalimo/assets/111705508/d917de33-adeb-4f69-ac3c-faefc0bec3c1)
+
+
+## 🌎 Olá, meu nome é <strong> Bruna!</strong>
+ 
+- 👩🏽‍💻 Cursando Engenharia de Software.
+- 🎓 Fui professora de História/Inglês, mas sempre apaixonada por tecnologia e jogos desde criança.
+- 🚀 Atualmente estou me dedicando na formação de Desenvolvimento de Software Backend na [@cubosacademy](https://cubos.academy/). 
+- 💼 Estagiária na Sotreq - Uberlândia - MG, no setor de análise e tratamento de dados.
+- 🎮 Nerd, metaleira e crossfiteira.
 
 ##
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,nodejs)](https://skillicons.dev)
