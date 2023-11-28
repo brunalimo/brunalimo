@@ -5,10 +5,10 @@
 ## 🌎 Olá, meu nome é <strong> Bruna!</strong>
  
 - 👩🏽‍💻 Cursando Engenharia de Software.
-- 🎓 Fui professora de História/Inglês, mas sempre apaixonada por tecnologia e jogos desde criança.
+- 🎓 Fui professora de História/Inglês, mas sempre apaixonada por tecnologia e jogos.
 - 🚀 Atualmente estou me dedicando na formação de Desenvolvimento de Software Backend na [@cubosacademy](https://cubos.academy/). 
 - 💼 Estagiária na Sotreq - Uberlândia - MG, no setor de análise e tratamento de dados.
-- 🎮 Nerd, metaleira e crossfiteira.
+
 
 ##
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,nodejs)](https://skillicons.dev)
