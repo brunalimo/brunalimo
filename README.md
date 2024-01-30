@@ -5,9 +5,9 @@
 ## 🌎 Olá, meu nome é <strong> Bruna!</strong>
  
 - 👩🏽‍💻 Cursando Engenharia de Software.
-- 🎓 Fui professora de História/Inglês, mas sempre apaixonada por tecnologia e jogos.
-- 🚀 Atualmente estou me dedicando na formação de Desenvolvimento de Software Backend na [@cubosacademy](https://cubos.academy/). 
-- 💼 Estagiária na Sotreq - Uberlândia - MG, no setor de análise e tratamento de dados.
+- 🎓 Trabalho com educação, mas sempre apaixonada por tecnologia e jogos.
+- 🚀 Me especializando em desenvolvimento de Software Backend e AWS. 
+- 💼 Coodernadora no Projeto de Tecnologias Educacionais - SESI/FIEMG | Estagiária na Sotreq - Uberlândia - MG, realizando automações e tratamento de dados.
 
 
 ##
