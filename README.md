@@ -5,7 +5,7 @@
 ## 🌎 Olá, meu nome é <strong> Bruna!</strong>
  
 - 👩🏽‍💻 Cursando Engenharia de Software.
-- 🎓 Trabalho com educação, mas sempre apaixonada por tecnologia e jogos.
+- 🎓 Trabalhei com educação por 7 anos, mas sempre fui apaixonada por tecnologia, gestão e jogos.
 - 🚀 Me especializando em desenvolvimento de Software Backend e Cloud AWS. 
 - 💼 Coodernadora no Projeto de Tecnologias Educacionais - SESI/FIEMG | Estagiária na Sotreq - Uberlândia - MG, realizando automações e tratamento de dados.
 
