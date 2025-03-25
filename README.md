@@ -4,10 +4,10 @@
 
 ## 🌎 Olá, meu nome é <strong> Bruna!</strong>
  
-- 👩🏽‍💻 Cursando Engenharia de Software.
+- 👩🏽‍💻 Pedagoga e cursando Engenharia de Software.
 - 🎓 Apaixonada por tecnologia, educação e gestão.
-- 🚀 Me especializando em desenvolvimento de Software e dados. 
-- 💼 Coodernadora no Projeto de Tecnologias Educacionais - SESI/FIEMG.
+- 🚀 Me especializando em desenvolvimento de Software. 
+- 💼 Gestão no Projeto de Tecnologias Educacionais - SESI/FIEMG.
 
 
 ##
